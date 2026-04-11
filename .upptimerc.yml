@@ -3,16 +3,14 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Hugo Website
+    url: https://www.hugogroup.id
+  - name: Cuci Sepatu Website
+    url: https://cucisepatu.hugogroup.id
+  - name: TukuWeb
+    url: https://tukuweb.com
+  - name: Hasnaliya Faskes Bridging
+    url: https://hasnaliya.faskesbridging.com
     port: 80
     check: "tcp-ping"
     ipv6: true
