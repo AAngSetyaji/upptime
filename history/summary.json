@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 219,
+    "timeDay": 146,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2294,
-    "timeDay": 2294,
-    "timeWeek": 2294,
-    "timeMonth": 2294,
-    "timeYear": 2294,
+    "time": 2171,
+    "timeDay": 2048,
+    "timeWeek": 2171,
+    "timeMonth": 2171,
+    "timeYear": 2171,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1706,
-    "timeDay": 1706,
-    "timeWeek": 1706,
-    "timeMonth": 1706,
-    "timeYear": 1706,
+    "time": 1750,
+    "timeDay": 1794,
+    "timeWeek": 1750,
+    "timeMonth": 1750,
+    "timeYear": 1750,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hasnaliya.faskesbridging.com.ico",
     "slug": "hasnaliya-faskes-bridging",
     "status": "down",
-    "uptime": "4.83%",
-    "uptimeDay": "4.83%",
-    "uptimeWeek": "4.83%",
-    "uptimeMonth": "4.83%",
-    "uptimeYear": "4.83%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-11": 0
+      "2026-04-12": 211,
+      "2026-04-11": 1239
     }
   }
 ]
