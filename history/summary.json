@@ -40,18 +40,20 @@
     "url": "https://tukuweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tukuweb.com.ico",
     "slug": "tuku-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1827,
-    "timeDay": 1905,
-    "timeWeek": 1844,
-    "timeMonth": 1827,
-    "timeYear": 1827,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
+    "time": 1919,
+    "timeDay": 2281,
+    "timeWeek": 1946,
+    "timeMonth": 1919,
+    "timeYear": 1919,
+    "dailyMinutesDown": {
+      "2026-04-18": 127
+    }
   },
   {
     "name": "Hasnaliya Faskes Bridging",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 868,
+      "2026-04-18": 995,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
