@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 139,
-    "timeWeek": 218,
+    "timeWeek": 207,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://tukuweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tukuweb.com.ico",
     "slug": "tuku-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1827,
     "timeDay": 1905,
-    "timeWeek": 1827,
+    "timeWeek": 1844,
     "timeMonth": 1827,
     "timeYear": 1827,
     "dailyMinutesDown": {}
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 197,
+      "2026-04-18": 868,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
