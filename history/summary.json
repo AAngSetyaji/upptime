@@ -4,10 +4,10 @@
     "url": "https://www.hugogroup.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.hugogroup.id.ico",
     "slug": "hugo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
@@ -15,16 +15,18 @@
     "timeWeek": 281,
     "timeMonth": 240,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-04": 1
+    }
   },
   {
     "name": "Cuci Sepatu Website",
     "url": "https://cucisepatu.hugogroup.id",
     "icon": "https://icons.duckduckgo.com/ip3/cucisepatu.hugogroup.id.ico",
     "slug": "cuci-sepatu-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 2128,
     "timeMonth": 2191,
     "timeYear": 2233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-04": 0
+    }
   },
   {
     "name": "TukuWeb",
@@ -41,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tukuweb.com.ico",
     "slug": "tuku-web",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1309,
     "timeDay": 1116,
     "timeWeek": 1080,
@@ -74,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 289,
+      "2026-06-04": 1084,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
